@@ -30,6 +30,9 @@ h2{
     color:rgb(47, 44, 44);
     font-weight: 500;
 }
+.not{
+    width:280px;
+}
 p,li{
     font-size: 19px;
     margin:10px;
